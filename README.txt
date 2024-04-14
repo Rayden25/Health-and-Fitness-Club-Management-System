@@ -30,4 +30,4 @@ Book Room: Admins can book rooms for classes or sessions.
 Monitor Equipment: Admins can check the maintenance status of equipment.
 Update Class Schedule: Admins can update the schedule for fitness classes.
 
-Youtube Link: https://www.youtube.com/watch?v=a2wg8Vx6QS0
+https://www.youtube.com/watch?v=Vt2IfdOEEJI
