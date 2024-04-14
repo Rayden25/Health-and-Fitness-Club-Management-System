@@ -463,7 +463,7 @@ def admin_interface(admin_id):
         print("1. Book room")
         print("2. Monitor equipment")
         print("3. Update class schedule")
-        print("5. Quit")
+        print("4. Quit")
         choice = input("Enter your choice (1/2/3/4): ")
 
         if choice == '1':
